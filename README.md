@@ -5,7 +5,7 @@ A place to keep random C++ things we're working on, or playing around with, thro
 **Team #15**
 
 | Github     | Discord         |
-|------------|-----------------|
+| ---------- | --------------- |
 | jonZlotnik | Zlotter#2929    |
 | iceteaaaa  | MonkeyMonk#1784 |
 | jaforte    | jforty#5044     |
